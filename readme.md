@@ -1,6 +1,6 @@
 ## Speed Typer Typing Game
 
-A game to beat the clock by typing random words
+A game to beat the clock by typing random words, [Live Demo](https://speedtyper.layersavenuesoftware.co.za/)
 
 ## Project Specifications
 
